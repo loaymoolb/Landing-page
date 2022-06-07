@@ -3,7 +3,7 @@ import React from 'react';
 import { Footer, Blog, Possibility, Features, About, Header } from './containers';
 import { CTA, Brand, Navbar } from './components';
 
-import './App.css';
+import './App.scss';
 
 const App = () => {
   return (
