@@ -16,14 +16,24 @@
       margin-right: 2rem;
 
       img {
-        width: 62.56px;
-        height: 16.02px;
+        width: 65px;
+        height: 15px;
       }
     }
 
     &__container {
       display: flex;
       flex-direction: row;
+
+      p {
+        color: $color-nav;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 25px;
+        text-transform: capitalize;
+        margin: 0 1.5rem;
+        cursor: pointer;
+      }
     }
   }
 
@@ -31,6 +41,29 @@
     display: flex;
     justify-content: flex-end;
     align-items: center;
+
+    button {
+      padding: 0.5rem 1rem;
+      color: $color-nav;
+      background: $color-btn;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 25px;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    p {
+      color: $color-nav;
+      font-weight: 500;
+      font-size: 18px;
+      line-height: 25px;
+      text-transform: capitalize;
+      margin: 0 1.5rem;
+      cursor: pointer;
+    }
   }
 
   &-menu {
@@ -61,36 +94,35 @@
       box-shadow: 0px 0px 5px rgba(0,0, 0,0.2);
 
       p {
-        margin: 1rem 0;
+        margin: 1rem 1rem;
+        color: $color-nav;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 25px;
+        text-transform: capitalize;
+        margin: 0 1rem;
+        cursor: pointer;
       }
-
       &-sign {
         display: none;
+
+        button {
+          padding: 0.5rem 1rem;
+          color: $color-nav;
+          background: $color-btn;
+          font-weight: 500;
+          font-size: 18px;
+          line-height: 25px;
+          border: none;
+          outline: none;
+          cursor: pointer;
+          border-radius: 5px;
+        }
       }
     }
   }
 }
 
-p, button {
-  color: $color-nav;
-  font-weight: 500;
-  font-size: 18px;
-  line-height: 25px;
-  cursor: pointer;
-  margin: 0 1.5rem;
-}
-
-p {
-  text-transform: capitalize;
-}
-
-button {
-  padding: 0.5rem 1rem;
-  background: $color-btn;
-  border: none;
-  outline: none;
-  border-radius: 5px;
-}
 
 @media screen and (max-width: 1025px) {
   .navbar-links__container {
