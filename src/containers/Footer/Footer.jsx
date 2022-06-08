@@ -31,13 +31,13 @@ const Footer = () => {
         </div>
         <div className="footer-links__div">
           <h4>Get in touch</h4>
-          <a href="#">Crechterwoord K12 182 DK Alknjkcb</a>
-          <a href="#">085-132567</a>
-          <a href="#">info@payme.net</a>
+          <a href="#">My Adress Here</a>
+          <a href="#">066-585-478</a>
+          <a href="#">info@.com</a>
         </div>
       </div>
       <div className="footer-copyright">
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2022 AI-XP. All rights reserved.</p>
       </div>
     </div>
   )
