@@ -13,11 +13,11 @@ const Navbar = () => {
           <img src={logo} alt="logo" />  
         </div>
         <div className="navbar-links__container">
-          <p><a href="#Home">Home</a></p>
-          <p><a href="#About">What is AI-XP?</a></p>
-          <p><a href="#Possibility">Open AI</a></p>
-          <p><a href="#Features">Case Studies</a></p>
-          <p><a href="#Blog">Library</a></p>
+          <p><a href="#home">Home</a></p>
+          <p><a href="#about">What is AI-XP?</a></p>
+          <p><a href="#possibility">Open AI</a></p>
+          <p><a href="#features">Case Studies</a></p>
+          <p><a href="#blog">Library</a></p>
         </div>
       </div>
       <div className="navbar-sign">
