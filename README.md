@@ -4,6 +4,8 @@ Hi there! This is my landing page pet project using React
 
 ## Link: [AI-XP](https://loaymoolb.github.io/landing-ai-xp)
 
+![Иллюстрация к проекту](https://github.com/loaymoolb/landing-ai-xp/raw/master/cover.png)
+
 ### During building the website, were used:
 * React Functional components and their reusability
 * React file and folder structure
