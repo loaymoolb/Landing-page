@@ -12,7 +12,7 @@ Hi there! This is my landing page pet project using React
 * Working with Figma
 
 ## Get in touch with me:
-[Linkedin](https://linkedin.com/in/olha-chumak)  
-[Facebook](https://facebook.com/profile.php?id=100078344486573)  
+[LinkedIn](https://linkedin.com/in/olha-chumak)  
+[Facebook](https://www.facebook.com/olhachumakk)  
 [GitHub](https://github.com/loaymoolb)  
 Gmail: chumakolga153@gmail.com  
