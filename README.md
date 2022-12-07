@@ -17,4 +17,4 @@ Hi there! This is my landing page pet project using React
 [LinkedIn](https://linkedin.com/in/olha-chumak)  
 [Facebook](https://www.facebook.com/olhachumakk)  
 [GitHub](https://github.com/loaymoolb)  
-Gmail: chumakolga153@gmail.com  
+Gmail: olyachumakk@gmail.com  
